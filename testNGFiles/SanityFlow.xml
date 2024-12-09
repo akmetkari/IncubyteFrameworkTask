@@ -8,7 +8,6 @@
 			<class name="framework.testCases.TCCreateAccount01"></class>
 		</classes>
 	</test>
-
 	<test name="loginWithCorrectData">
 		<classes>
 			<class name="framework.testCases.TCSignInWithValid02"></class>
